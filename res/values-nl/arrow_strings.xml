@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Swipe to delete -->
-  <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
+  <string name="swipe_right_deletes_conversation_text">Veeg naar rechts om een gesprek te verwijderen</string>
   <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">New message</string>
+  <string name="shortcuts_compose_new">Nieuw bericht</string>
 </resources>
