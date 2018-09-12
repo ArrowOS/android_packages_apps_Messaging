@@ -19,5 +19,5 @@
   <!-- Swipe to delete -->
   <string name="swipe_right_deletes_conversation_text">Nach rechts wischen, um eine Konversation zu löschen</string>
   <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">Neue Mitteilung</string>
+  <string name="shortcuts_compose_new">Neue Nachricht</string>
 </resources>
