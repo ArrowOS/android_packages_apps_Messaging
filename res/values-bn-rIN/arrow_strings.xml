@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Swipe to delete -->
-  <string name="swipe_right_deletes_conversation_text">வலது பக்கமாக தேய்க்கவும் உரையாடல் நீக்கும்</string>
+  <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
   <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">புதிய செய்தி</string>
+  <string name="shortcuts_compose_new">New message</string>
 </resources>
