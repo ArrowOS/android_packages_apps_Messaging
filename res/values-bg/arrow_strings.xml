@@ -16,8 +16,8 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Swipe to delete -->
-  <string name="swipe_right_deletes_conversation_text">Плъзнете от ляво надясно за да изтриете кореспонденцията</string>
-  <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">Ново съобщение</string>
+    <!-- Swipe to delete -->
+    <string name="swipe_right_deletes_conversation_text">Плъзнете от ляво надясно за да изтриете кореспонденцията</string>
+    <!-- Shortcuts -->
+    <string name="shortcuts_compose_new">Ново съобщение</string>
 </resources>

@@ -16,8 +16,8 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Swipe to delete -->
-  <string name="swipe_right_deletes_conversation_text">Deslizar hacia la derecha para borrar conversacion</string>
-  <!-- Shortcuts -->
-  <string name="shortcuts_compose_new">Nuevo mensaje</string>
+    <!-- Swipe to delete -->
+    <string name="swipe_right_deletes_conversation_text">Deslizar hacia la derecha para borrar conversacion</string>
+    <!-- Shortcuts -->
+    <string name="shortcuts_compose_new">Nuevo mensaje</string>
 </resources>
