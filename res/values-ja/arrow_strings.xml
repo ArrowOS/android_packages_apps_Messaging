@@ -21,11 +21,11 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新着メッセージ</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">この端末から画像または動画を選択</string>
+    <string name="mediapicker_audioListChooserDescription">この端末から音声ファイルを選択</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">動画を添付できません。メッセージの最大サイズを超えています。</string>
+    <string name="mediapicker_audio_list_title">音声を選択</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">音声ファイルが選択されています</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">音声ファイルが選択されていません</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g>件選択済み</string>
 </resources>

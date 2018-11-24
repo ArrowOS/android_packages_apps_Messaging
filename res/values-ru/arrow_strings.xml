@@ -21,11 +21,11 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Новое сообщение</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">Выберите изображения или видео с этого устройства</string>
+    <string name="mediapicker_audioListChooserDescription">Выбрать аудио файлы на этом устройстве</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Не удается прикрепить видео. Превышен максимальный размер сообщения.</string>
+    <string name="mediapicker_audio_list_title">Выберите аудио файл</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Аудио файл выбран.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Аудио файл не выбран.</string>
+    <string name="mediapicker_audio_list_title_selection">Выбрано: <xliff:g id="Count">%d</xliff:g></string>
 </resources>

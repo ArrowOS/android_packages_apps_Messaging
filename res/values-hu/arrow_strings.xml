@@ -17,15 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete -->
-    <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
+    <string name="swipe_right_deletes_conversation_text">Húzza jobbra a beszélgetés törléséhez</string>
     <!-- Shortcuts -->
-    <string name="shortcuts_compose_new">New message</string>
+    <string name="shortcuts_compose_new">Új üzenet</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">Képek vagy videók kiválasztása az eszközről</string>
+    <string name="mediapicker_audioListChooserDescription">Hangfájlok kiválasztása az eszközről</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Nem sikerült csatolni a videót. Maximális méret túllépve.</string>
+    <string name="mediapicker_audio_list_title">Médiaelem kiválasztása</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Médiaelem kiválasztva.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Médiaelem nincs kiválasztva.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="Count">%d</xliff:g> kiválasztva</string>
 </resources>

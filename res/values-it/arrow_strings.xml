@@ -21,11 +21,11 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Nuovo messaggio</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">Scegli immagini o video da questo dispositivo</string>
+    <string name="mediapicker_audioListChooserDescription">Scegli file audio da questo dispositivo</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Impossibile allegare video. Dimensione massima del messaggio superata.</string>
+    <string name="mediapicker_audio_list_title">Scegli audio</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">L\'audio è selezionato.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">L\'audio non è selezionato.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selezionato</string>
 </resources>
