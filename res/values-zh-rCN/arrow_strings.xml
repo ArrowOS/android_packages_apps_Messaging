@@ -21,11 +21,11 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新留言</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">从此设备中选择图像或视频</string>
+    <string name="mediapicker_audioListChooserDescription">从此设备中选择音频文件</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">无法附加视频。附件大小超过最大上限。</string>
+    <string name="mediapicker_audio_list_title">选择音频</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">音频已选中。</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">音频未选中。</string>
+    <string name="mediapicker_audio_list_title_selection">已选择 <xliff:g id="count">%d</xliff:g></string>
 </resources>
