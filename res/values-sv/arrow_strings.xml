@@ -17,15 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete -->
-    <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
+    <string name="swipe_right_deletes_conversation_text">Svepning till höger tar bort konversationen</string>
     <!-- Shortcuts -->
-    <string name="shortcuts_compose_new">New message</string>
+    <string name="shortcuts_compose_new">Nytt meddelande</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">Välj bilder eller videor från den här enheten</string>
+    <string name="mediapicker_audioListChooserDescription">Välj ljudfiler från den här enheten</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Kan inte bifoga videoklipp. Max meddelandestorlek överskrids.</string>
+    <string name="mediapicker_audio_list_title">Välj ljud</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Ljudet är markerat.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Ljudet är avmarkerat.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> har valts</string>
 </resources>

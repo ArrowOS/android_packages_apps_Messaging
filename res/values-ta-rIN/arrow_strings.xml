@@ -21,11 +21,11 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">புதிய செய்தி</string>
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">இந்த சாதனத்திலிருந்து படங்கள் அல்லது வீடியோக்களைத் தேர்வுசெய்</string>
+    <string name="mediapicker_audioListChooserDescription">இந்த சாதனத்திலிருந்து ஆடியோ கோப்புகளைத் தேர்வுசெய்</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">வீடியோவை இணைக்க முடியவில்லை. அதிகபட்ச செய்தி அளவு மீறியது.</string>
+    <string name="mediapicker_audio_list_title">ஒலியைத் தேர்ந்தெடு</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">ஒலி தேர்ந்தெடுக்கப்பட்டது.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">ஒலி தேர்வுநீக்கப்பட்டது.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> தேர்ந்தெடுக்கப்பட்டுள்ளது</string>
 </resources>
