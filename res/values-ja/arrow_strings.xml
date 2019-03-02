@@ -27,5 +27,5 @@
     <string name="mediapicker_audio_list_title">音声を選択</string>
     <string name="mediapicker_audio_list_item_selected_content_description">音声ファイルが選択されています</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">音声ファイルが選択されていません</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g>件選択済み</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g> 件選択済み</string>
 </resources>
