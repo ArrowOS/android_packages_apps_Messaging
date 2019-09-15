@@ -28,4 +28,9 @@
     <string name="mediapicker_audio_list_item_selected_content_description">O áudio está selecionado.</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">O áudio está desmarcado.</string>
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="Count">%d</xliff:g> selecionado(s)</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_title">Messages</string>
+    <string name="background_worker_notif">Checking messages\u2026</string>
 </resources>
