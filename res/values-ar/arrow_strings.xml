@@ -28,4 +28,9 @@
     <string name="mediapicker_audio_list_item_selected_content_description">تم تحديد الملف الصوتي.</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">لم يتم تحديد الملف الصوتي.</string>
     <string name="mediapicker_audio_list_title_selection">تم تحديد <xliff:g id="Count">%d</xliff:g></string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">تحديد كمقروء</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_title">الرسائل</string>
+    <string name="background_worker_notif">يتم فحص الرسائل</string>
 </resources>
