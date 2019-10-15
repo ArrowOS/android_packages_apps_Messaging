@@ -28,4 +28,9 @@
     <string name="mediapicker_audio_list_item_selected_content_description">Аудио файл выбран.</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">Аудио файл не выбран.</string>
     <string name="mediapicker_audio_list_title_selection">Выбрано: <xliff:g id="Count">%d</xliff:g></string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Отметить как просмотренное</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_title">Сообщения</string>
+    <string name="background_worker_notif">Проверка сообщений\u2026</string>
 </resources>

@@ -28,4 +28,9 @@
     <string name="mediapicker_audio_list_item_selected_content_description">已選擇的音訊。</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">未選擇的音訊。</string>
     <string name="mediapicker_audio_list_title_selection">已選擇 <xliff:g id="count">%d</xliff:g> 個</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">標記為已讀</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_title">訊息</string>
+    <string name="background_worker_notif">正在檢查訊息\u2026</string>
 </resources>
