@@ -1143,20 +1143,6 @@ public class MmsUtils {
     }
 
     /**
-     * @return Whether the data roaming is enabled
-     */
-    private static boolean isDataRoamingEnabled() {
-        boolean dataRoamingEnabled = false;
-        final ContentResolver cr = Factory.get().getApplicationContext().getContentResolver();
-        if (OsUtil.isAtLeastJB_MR1()) {
-            dataRoamingEnabled = (Settings.Global.getInt(cr, Settings.Global.DATA_ROAMING, 0) != 0);
-        } else {
-            dataRoamingEnabled = (Settings.System.getInt(cr, Settings.System.DATA_ROAMING, 0) != 0);
-        }
-        return dataRoamingEnabled;
-    }
-
-    /**
      * @return Whether to auto retrieve MMS
      */
     public static boolean allowMmsAutoRetrieve(final int subId) {
@@ -2080,16 +2066,6 @@ public class MmsUtils {
         }
         final PhoneUtils phoneUtils = PhoneUtils.get(subId);
         return !phoneUtils.isAirplaneModeOn();
-    }
-
-    public static boolean isMobileDataEnabled(final int subId) {
-        final PhoneUtils phoneUtils = PhoneUtils.get(subId);
-        return phoneUtils.isMobileDataEnabled();
-    }
-
-    public static boolean isAirplaneModeOn(final int subId) {
-        final PhoneUtils phoneUtils = PhoneUtils.get(subId);
-        return phoneUtils.isAirplaneModeOn();
     }
 
     public static StatusPlusUri sendMmsMessage(final Context context, final int subId,
