@@ -16,7 +16,7 @@
     <string name="swipe_to_delete_conversation_pref_title">Deslizar para eliminar</string>
     <string name="swipe_to_delete_conversation_pref_summary">Desliza hacia la derecha para eliminar una conversación</string>
     <!-- Mark message as read -->
-    <string name="notification_mark_as_read">Mark as read</string>
+    <string name="notification_mark_as_read">Marcar como leído</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Messages</string>
+    <string name="notification_channel_messages_title">Mensajes</string>
 </resources>
