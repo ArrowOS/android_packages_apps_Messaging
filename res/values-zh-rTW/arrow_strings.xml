@@ -13,10 +13,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Swipe to delete</string>
-    <string name="swipe_to_delete_conversation_pref_summary">Swipe to the right to delete a conversation</string>
+    <string name="swipe_to_delete_conversation_pref_title">滑動以刪除</string>
+    <string name="swipe_to_delete_conversation_pref_summary">向右滑動即可刪除對話</string>
     <!-- Mark message as read -->
-    <string name="notification_mark_as_read">Mark as read</string>
+    <string name="notification_mark_as_read">標記為已讀</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Messages</string>
+    <string name="notification_channel_messages_title">訊息</string>
 </resources>
