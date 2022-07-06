@@ -16,11 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Проведіть для видалення</string>
-    <string name="swipe_to_delete_conversation_pref_summary">Свайпніть вправо для видалення бесіди</string>
+    <string name="swipe_to_delete_conversation_pref_title">برای حذف، انگشت خود را بکشید</string>
+    <string name="swipe_to_delete_conversation_pref_summary">برای حذف گفتگو به سمت راست بکشید</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">Доступ до емодзі</string>
-    <string name="show_emoticons_pref_summary">Показувати кнопку емодзі на клавіатурі</string>
+    <string name="show_emoticons_pref_title">دسترسی به شکلک‌ها</string>
+    <string name="show_emoticons_pref_summary">نمایش کلید شکلک ها بر روی کیبورد</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Повідомлення</string>
+    <string name="notification_channel_messages_title">پیام‌ها</string>
 </resources>

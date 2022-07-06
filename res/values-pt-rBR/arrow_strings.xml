@@ -19,8 +19,8 @@
     <string name="swipe_to_delete_conversation_pref_title">Deslize para excluir</string>
     <string name="swipe_to_delete_conversation_pref_summary">Deslize à direita para excluir uma conversa</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">Emoticons access</string>
-    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
+    <string name="show_emoticons_pref_title">Acesso aos emoticons</string>
+    <string name="show_emoticons_pref_summary">Mostrar o botão de emoticons no teclado</string>
     <!-- Notification channel -->
     <string name="notification_channel_messages_title">Mensagens</string>
 </resources>
