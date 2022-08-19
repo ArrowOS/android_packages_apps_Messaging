@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Проведіть для видалення</string>
+    <string name="swipe_to_delete_conversation_pref_title">Свайпніть, щоб видалити</string>
     <string name="swipe_to_delete_conversation_pref_summary">Свайпніть вправо для видалення бесіди</string>
     <!-- Show emoticons -->
     <string name="show_emoticons_pref_title">Доступ до емодзі</string>
